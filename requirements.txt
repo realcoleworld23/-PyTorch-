@@ -1,0 +1,12 @@
+torch>=1.12.0
+torchvision>=0.13.0
+flask>=2.0.0
+pillow>=9.0.0
+numpy>=1.21.0
+opencv-python>=4.5.0
+matplotlib>=3.5.0
+requests>=2.25.0
+websocket-client>=1.0.0
+scikit-learn>=1.0.0
+tqdm>=4.64.0
+werkzeug>=2.0.0 
