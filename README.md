@@ -65,6 +65,9 @@ pip install "torch>=1.12.0" \
 首先您需要下载realease中的web_demo文件夹“ICT”,以及毒蘑菇识别模型的权重pth文件，植物病害识别模型的权重pth文件。
 以下的文件都存在于web_demo文件夹“ICT”中。
 
+要使用web_demo必须下载github release中的web_demo文件夹，里面会有demo文件ICT.zip
+（github release中也有两个模型权重文件，可直接下载，也可只下载web_demo文件夹中的ICT.zip，里面也包含有两个模型权重文件）
+
 ## 文件结构说明
 
 ```
