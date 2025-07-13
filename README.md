@@ -45,6 +45,21 @@ pip install flask pillow numpy opencv-python matplotlib
 pip install requests websocket-client
 pip install scikit-learn tqdm
 ```
+或者是直接
+```bash
+pip install "torch>=1.12.0" \
+            "torchvision>=0.13.0" \
+            "flask>=2.0.0" \
+            "pillow>=9.0.0" \
+            "numpy>=1.21.0" \
+            "opencv-python>=4.5.0" \
+            "matplotlib>=3.5.0" \
+            "requests>=2.25.0" \
+            "websocket-client>=1.0.0" \
+            "scikit-learn>=1.0.0" \
+            "tqdm>=4.64.0" \
+            "werkzeug>=2.0.0"
+```
 
 ## 路径配置
 首先您需要下载realease中的web_demo文件夹“ICT”,以及毒蘑菇识别模型的权重pth文件，植物病害识别模型的权重pth文件。
