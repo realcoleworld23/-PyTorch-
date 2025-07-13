@@ -1,2 +1,7 @@
-上传的单个ipynb文件都为训练时的代码文件
-在github release中的文件才属于web_demo文件夹
+-上传的单个ipynb文件都为训练时的代码文件
+
+-在github release中的文件才属于web_demo文件夹
+
+-要使用web_demo必须下载github release中的web_demo文件夹，里面会有demo文件ICT.zip
+（github release中也有两个模型权重文件，可直接下载，也可只下载web_demo文件夹中的ICT.zip，里面也包含有两个模型权重文件）
+
