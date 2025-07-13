@@ -114,10 +114,11 @@ DEFAULT_LLM = "baidu"  # 默认使用百度API
 
 ## 运行应用
 
-### 1. 启动服务器
+### 1. 启动服务器(在相应的web_demo文件夹中打开终端窗口）
 ```bash
 python app.py
 ```
+成功后请勿关闭终端。
 
 ### 2. 访问应用
 打开浏览器，访问：`http://localhost:5000`
